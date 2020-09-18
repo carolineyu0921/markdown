@@ -815,137 +815,74 @@ The OGO is happy to provide assistance. You can email [opendata@ontario.ca](mail
 
 # Appendix
 
-#### 1. Summary Risk Assessment and Publishing Process
 
-| **WHAT** | **1. IDENTIFY** |
-  1. **ASSESS**
- |
-  1. **PREPARE**
- |
-  1. **REVIEW**
- |
-  1. **SUBMIT**
- |
+## 1. Summary Risk Assessment and Publishing Process
+
+| **WHAT** | 1. **IDENTIFY** | 2. **ASSESS** | 3. **PREPARE** |  4. **REVIEW** | 5. **SUBMIT** |
 | --- | --- | --- | --- | --- | --- |
-| **WHO** | _Ministry lead identifies new data and adds to inventory __OR__ data to be updated with major changes\*_ | _Ministry lead starts assessment_
- | _Ministry lead prepares data and metadata for catalogue_ | _Ministry lead coordinates review of data package_ | _Ministry lead submits final data package to OG Office_
- |
+| **WHO** | _Ministry lead identifies new data and adds to inventory   __OR__   data to be updated with major changes\*_ | _Ministry lead starts assessment_ | _Ministry lead prepares data and metadata for catalogue_ | _Ministry lead coordinates review of data package_ | _Ministry lead submits final data package to OG Office_|
 | --- | --- | --- | --- | --- | --- |
 |
-**HOW** | **Ministry lead** sends draft data description to OG Office **OG Office** coordinates review of draft data description **Ministry lead** completes and translates data description form **OG Office** supports addition of data description to catalogue
-**\*** Major changes must go through the risk assessment and publishing process, minor changes do not need to follow this process
- | **Ministry lead** shares data for review with appropriate teams which may include — **Legal branch** : copyright &amp; legal considerations **Privacy team:** personal &amp; confidential information **IT cluster:** data quality and accessibility **Communications Branch:** identifies issues &amp; opportunities **Ministry lead** determines timelines &amp; reports back to OG Office | **Ministry lead** converts data into open file format **Ministry lead** prepares context documentation and updates to description **Ministry lead** prepares issues management plan, if required **Ministry lead** prepares dataset package:
-  1. Updated data description (English and French)
-  2. Data files in Open format
-  3. Issues management plan, if required
- | **Assessment team** reviews package to ensure it reflects their findings **Ministry&#39;s**  **Director/ Delegate** confirms assessment team&#39;s findings **Ministry&#39;s Assistant Deputy Office** reviews issues management plan if one is required to confirm the mitigation is appropriate | **OG** reviews dataset package **OG Office** coordinates publishing on catalogue and sends links to ministry **Ministry Lead** works with Communications Branch to promote through:
-  - Social media (tweets)
-  - Traditional media (links in news releases)
+**HOW** | **Ministry lead** sends draft data description to OG Office <br> <br> **OG Office** coordinates review of draft data description <br> <br> **Ministry lead** completes and translates data description form <br> <br> **OG Office** supports addition of data description to catalogue <br> <br> \*Major changes must go through the risk assessment and publishing process, minor changes do not need to follow this process|**Ministry lead** shares data for review with appropriate teams which may include — <br> <br> **Legal branch** : copyright &amp; legal considerations <br> <br> **Privacy team:** personal &amp; confidential information <br> <br> **IT cluster:** data quality and accessibility 	<br> <br> **Communications Branch:** identifies issues &amp; opportunities <br> <br> **Ministry lead** determines timelines &amp; reports back to OG Office | **Ministry lead** converts data into open file format <br> <br> **Ministry lead** prepares context documentation and updates to description <br> <br> **Ministry lead** prepares issues management plan, if required <br> <br> **Ministry lead** prepares dataset package: <ol><li> Updated data description (English and French) </li><li> Data files in Open format </li><li> Issues management plan, if required </li></ol>| **Assessment team** reviews package to ensure it reflects their findings <br> <br> **Ministry&#39;s** **Director/ Delegate** confirms assessment team&#39;s findings  <br> <br>  **Ministry&#39;s Assistant Deputy Office** reviews issues management plan if one is required to confirm the mitigation is appropriate | **OG** reviews dataset package  <br> <br>  **OG Office** coordinates publishing on catalogue and sends links to ministry  <br> <br>  **Ministry Lead** works with Communications Branch to promote through: <ul><li>Social media (tweets)</li> <li>Traditional media (links in news releases)</li></ul>|
 
-
- |
-
-2.
-## Open Data File Formats
+## 2. Open Data File Formats
 
 Open datasets are formatted as non-proprietary, open files to promote broad use and ensure compatibility when working with other sources. Data formats must be:
 
 1. **Platform-independent**
+The file should not be tied to a particular computer vendor.    
+   *  Example: A numbers spreadsheet is only viewable on Apple devices and should be avoided in favour of CSV, which is viewable on any platform.
+2. **Machine-readable**
+The file format should be suitable for machine processing.
+	- Example:  A table in PDF format is intended for a human viewer, not a machine. The underlying table should instead be published in a suitable format for tabular data, such as CSV.
 
-The file should not be tied to a particular computer vendor.
-
-- Example: A numbers spreadsheet is only viewable on Apple devices and should be avoided in favour of CSV, which is viewable on any platform.
-
-1. **Machine-readable**
-
-The file formal should be suitable for machine processing.
-
-- Example:  A table in PDF format is intended for a human viewer, not a machine. The underlying table should instead be published in a suitable format for tabular data, such as CSV.
-
-1. **Vendor-neutral**
-
+3. **Vendor-neutral**
 The file format should not require proprietary software to view.
+	- Example: A Microsoft Access MDB file requires Microsoft Access to view. Data should be released as CSV or open database formats such as MySQL SQL files.
 
-- Example: A Microsoft Access MDB file requires Microsoft Access to view. Data should be released as CSV or open database formats such as MySQL SQL files.
-
-1. **Standardized** (where possible)
-
+4. **Standardized** (where possible)
 Certain data types have actual or de facto standards adopted by their communities. Data owners should strive to use these standards where available.
+	- Example: Transit data is almost universally released in GTFS. This is preferable to custom formats as it will allow easier integration of Ontario data with existing tools.
 
-- Example: Transit data is almost universally released in GTFS. This is preferable to custom formats as it will allow easier integration of Ontario data with existing tools.
-
-Table 1: Acceptable Open File Formats
+<ins>Table 1</ins>: Acceptable Open File Formats
 
 | **FILE FORMAT** | **DESCRIPTION** |
 | --- | --- |
-| **XML** | Extensible Markup Language – a set of rules for encoding documents electronically. Well suited for consumption by automated programs capable of handling raw XML (extensible markup language) files.
-- Simple, general textual data format
-- Easy to parse via a programming language
-
-  - Hundreds of XML-based languages have been developed, which means broad range usage over multiple programming languages
-
-- Easy to use over the internet
- |
-| --- | --- |
-| **CSV/TXT** | Comma-separated values – a file that is used for the digital storage of data structured in a table of lists form. Use these formats for easy access to the data. Text/CSV (comma separated values) files can be opened by most desktop spreadsheet applications (e.g., MS Excel), but are also machine readable.
-- CSVs are widely supported
-- Stores tabular data (physical records in plain text formatting)
-- Common on all computer platforms
- |
-| **KML** | Keyhole Markup Language – an XML-based language schema for expressing geographic annotation and visualization.
-- Used to display geospatial data in Google Earth (originally named Keyhole Earth Viewer), Google Maps and similar applications.
-- KML (keyhole markup language) is extended from XML and shares some of the same structure as GML (geography markup language).
-- An Open Geospatial Consortium (OGC) implementation standard.
- |
+| **XML** | Extensible Markup Language – a set of rules for encoding documents electronically. Well suited for consumption by automated programs capable of handling raw XML (extensible markup language) files.<ul><li>Simple, general textual data format</li><li>Easy to parse via a programming language</li><ul><li>Hundreds of XML-based languages have been developed, which means broad range usage over multiple programming languages</li></ul><li>Easy to use over the internet</li></ul> |
+| **CSV/TXT** | Comma-separated values – a file that is used for the digital storage of data structured in a table of lists form. Use these formats for easy access to the data. Text/CSV (comma separated values) files can be opened by most desktop spreadsheet applications (e.g., MS Excel), but are also machine readable.<ul><li>CSVs are widely supported</li><li>Stores tabular data (physical records in plain text formatting)</li><li>Common on all computer platforms</li></ul>|
+| **KML** | Keyhole Markup Language – an XML-based language schema for expressing geographic annotation and visualization.<ul><li>Used to display geospatial data in Google Earth (originally named Keyhole Earth Viewer), Google Maps and similar applications.</li><li>KML (keyhole markup language) is extended from XML and shares some of the same structure as GML (geography markup language).</li><li>An Open Geospatial Consortium (OGC) implementation standard.</li></ul>|
 | **KMZ** | Zipped KML files. |
 | **GML** | Geography Markup Language – the XML grammar defined by the Open Geospatial Consortium (OGC) to express geographical features. |
-| **SHAPEFILE (SHP, SHX, DBF, PRJ, SBN)** | Shapefile format is a geospatial vector data format developed by ESRI as an open specification to facilitate inter-operability amongst ESRI and other geographic information system (GIS) software programs. It includes mandatory files (.shp, .shx, .dbt) and could include corresponding files (e.g. .prj).
-- Stores geometric location, geometrical data types of points, lines and polygons and associated attribute information
-- Lacks capacity to store topological information
- |
+| **SHAPEFILE (SHP, SHX, DBF, PRJ, SBN)** | Shapefile format is a geospatial vector data format developed by ESRI as an open specification to facilitate inter-operability amongst ESRI and other geographic information system (GIS) software programs. It includes mandatory files (.shp, .shx, .dbt) and could include corresponding files (e.g. .prj).<ul><li>Stores geometric location, geometrical data types of points, lines and polygons and associated attribute information</li><li>Lacks capacity to store topological information</li></ul>|
 | **GEOJSON** | GeoJSON is an open format for encoding a variety of geographic data structures. |
-| **GEOTIFF** | GeoTIFF is a public domain metadata standard that allows geo-referencing information to be embedded within a TIFF file.
-- Under review for update by an OGC Standards Working Group.
- |
-| **GPX** | GPX (the GPS Exchange Format) is a light-weight XML data format for the interchange of GPS data (waypoints, routes and tracks) between applications and Web services on the Internet.
-- The de facto XML standard for lightweight interchange of GPS data since the initial GPX release in 2002.
-- Used by dozens of software programs and Web services for GPS data exchange, mapping and geocaching.
- |
+| **GEOTIFF** | GeoTIFF is a public domain metadata standard that allows geo-referencing information to be embedded within a TIFF file <ul><li>Under review for update by an OGC Standards Working Group.</li></ul> |
+| **GPX** | GPX (the GPS Exchange Format) is a light-weight XML data format for the interchange of GPS data (waypoints, routes and tracks) between applications and Web services on the Internet.<ul><li>The de facto XML standard for lightweight interchange of GPS data since the initial GPX release in 2002.</li><li>Used by dozens of software programs and Web services for GPS data exchange, mapping and geocaching.</li></ul> |
 | **RDF** | RDF (resource description framework) is a standard model for data interchange on the web. It is based on XML and URI (uniform resource identifier). |
 | **ODF** | Open Document Format – XML-bases document format. |
 | **OOXML** | Office Open Extensive Markup Language – an ISO/IEC standardized file format. |
 | **JSON** | JavaScript Object Notation is a lightweight data-interchange format. |
 
-Table 2: File formats that are not encouraged and do not meet all of the requirements of Open file formats.
+<ins>Table 2</ins>: File formats that are not encouraged and do not meet all of the requirements of Open file formats.
 
-| **FILE**** FORMAT **|** DESCRIPTION** |
+| FILE FORMAT| DESCRIPTION |
 | --- | --- |
-| **XLS** | XLS is a file format used with Microsoft Excel. Main spreadsheet format which holds data in charts, worksheets and macros.
-- Data can be transferred into a CSV/TXT format.
- |
-| --- | --- |
-| **Microsoft Access file types (MDB, MDA, ACCDB)** | Microsoft Office Access is a pseudo-database management system that can combine data from other file formats such as XLS, SharePoint lists, text, XML, etc. to compile in a single database.
-- The end result of this database file should be converted to a CSV/TXT or another machine-readable format.
- |
-| **ZIP** | Zip files are compressed files or folders. Zip files are not encouraged within an Open Data setting, unless necessary (a skin, blog theme) since files included are uncontrolled types.
-- Supported by all operating systems Windows 98 and later, and Mac OS X 10.3 and later.
- |
-| **Daisy** | Daisy is a Java/XML open-source content management system and is in use at major corporations and governments for intranet knowledge bases, project documentation and management of content-rich websites. This content is stored in so-called Daisy documents.
-- Uses a WYSIWYG (what you see is what you get) editing environment, and is a front-end application. This is not a back-end machine-readable format.
- |
-| **HTML/HTM** | HTML (hypertext markup language) is the predominant markup language for web pages. Alone, it is not optimized for machine-readability, but only the output is meant for human readability.
-- Although some HTML files (depending on the site&#39;s usage) can be converted to XML or XHTML to be machine-readable, this does not mean _all_ HTML files can be converted. For this difficulty in defining and determining (by the average user) which files are good for conversion and which ones are not, HTML should not be an acceptable file format.
- |
+| **XLS** | XLS is a file format used with Microsoft Excel. Main spreadsheet format which holds data in charts, worksheets and macros.<ul><li>Data can be transferred into a CSV/TXT format.</li></ul> |
+ **Microsoft Access file types (MDB, MDA, ACCDB)** | Microsoft Office Access is a pseudo-database management system that can combine data from other file formats such as XLS, SharePoint lists, text, XML, etc. to compile in a single database.<ul><li>The end result of this database file should be converted to a CSV/TXT or another machine-readable format.</li></ul>|
+| **ZIP** | Zip files are compressed files or folders. Zip files are not encouraged within an Open Data setting, unless necessary (a skin, blog theme) since files included are uncontrolled types.<ul><li>Supported by all operating systems Windows 98 and later, and Mac OS X 10.3 and later.</li></ul>|
+| **Daisy** | Daisy is a Java/XML open-source content management system and is in use at major corporations and governments for intranet knowledge bases, project documentation and management of content-rich websites. This content is stored in so-called Daisy documents.<ul><li>Uses a WYSIWYG (what you see is what you get) editing environment, and is a front-end application. This is not a back-end machine-readable format.</li></ul>|
+| **HTML/HTM** | HTML (hypertext markup language) is the predominant markup language for web pages. Alone, it is not optimized for machine-readability, but only the output is meant for human readability.<ul><li>Although some HTML files (depending on the site&#39;s usage) can be converted to XML or XHTML to be machine-readable, this does not mean _all_ HTML files can be converted. For this difficulty in defining and determining (by the average user) which files are good for conversion and which ones are not, HTML should not be an acceptable file format.</li></ul>|
 
-Table 3: File formats that should not be used.
 
-| **FILE**** FORMAT **|** DESCRIPTION** |
+<ins>Table 3</ins>: File formats that should not be used.
+
+| FILE FORMAT | DESCRIPTION |
 | --- | --- |
 | **DOC** | DOC files are files and documents that are created by word processing software. Data contained in this type of file should be analyzed to determine which file format to save it in for inclusion within the data catalogue. |
-| --- | --- |
 | **Media files (JPG, PNG, GIF, BMP, MP3, AVI, etc.)** | Media files should not be included into the database since it does not provide actual source data. Even if the JPG may be a chart or graph, or if the MP3 is of a recent podcast that discusses data –these are not good formats because data cannot be extracted at all. |
 | **EXE** | An executable file is essentially a full program. This file type should not be released at all. |
 | **JS, PHP, ASP, ASPX, PLS, VBS** | These files are scripting languages that are used to create dynamic content or functions on web pages. This type of file does not carry any type of actual raw data and should not be included in an open data database. |
+
+
 
 Ontario Digital Service
 
