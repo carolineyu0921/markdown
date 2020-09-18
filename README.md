@@ -113,14 +113,15 @@ The [Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc) buil
 ### Ministries and Provincial Agencies
 
 1. Publish online all data that they create, collect and/or manage, unless the data cannot be public for privacy, confidentiality, security, legal or commercially-sensitive reasons.
-  - ministries must publish their data on the [Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc)
-  - provincial agencies must publish their data on their own website (if they have one) or their responsible ministry&#39;s website (if the provincial agency does not have its own).
+ 	 - ministries must publish their data on the [Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc)
+	 - provincial agencies must publish their data on their own website (if they have one) or their responsible ministry&#39;s website (if the provincial agency does not have its own).
+	  
 2. Contribute and maintain a list of all datasets for which they have custody and control to Ontario&#39;s data inventory.
 3. Ensure that Open Data requirements outlined in the ODD are built into their IT projects.
 4. Ensure data is open by default by
-  - Doing everything possible to ensure the timely review and release of open data. Note that per revisions to the ODD effective August 6, 2019 Program Directors are responsible for ensuring a risk assessment was completed and approving the outcome (open or restricted). They are also responsible for briefing up when appropriate and coordinating the review of issues management plans when recommended by the risk review.
-  - embedding open principles in data management activities, systems and processes
-  - encouraging data literacy and open government objectives in learning and development plans of staff at all levels
+  	- Doing everything possible to ensure the timely review and release of open data. Note that per revisions to the ODD effective August 6, 2019 Program Directors are responsible for ensuring a risk assessment was completed and approving the outcome (open or restricted). They are also responsible for briefing up when appropriate and coordinating the review of issues management plans when recommended by the risk review.
+  	- embedding open principles in data management activities, systems and processes
+  	- encouraging data literacy and open government objectives in learning and development plans of staff at all levels
 
 ### Ontario Digital Service, Cabinet Office
 
@@ -155,33 +156,33 @@ The following questions can help ministries and provincial agencies identify dat
 
 1. **Does your organization have a legislative mandate to produce, collect or share data?**
 
-Example:
+	Example:
 
-[Facilities Greenhouse Gas Emissions Summaries](https://www.ontario.ca/data/greenhouse-gas-emissions-reporting-facility): The Ministry of the Environment and Climate Change collects emissions data from regulated facilities for sources listed in Ontario Regulation 452/09.
+	[Facilities Greenhouse Gas Emissions Summaries](https://www.ontario.ca/data/greenhouse-gas-emissions-reporting-facility): The Ministry of the Environment and Climate Change collects emissions data from regulated facilities for sources listed in Ontario Regulation 452/09.
 
-1. **Does your organization use, maintain or own the datasets used to inform policy development or program delivery?**
+2. **Does your organization use, maintain or own the datasets used to inform policy development or program delivery?**
 
-Example:
+	Example:
 
-[Reports on Long Term Care Homes](http://publicreporting.ltchomes.net/en-ca/default.aspx): the Ministry of Health and Long term Care Homes inspection program ensures homes comply with provincially legislated standards. It uses the data that it collects to issue reports and create profiles for each home.
+	[Reports on Long Term Care Homes](http://publicreporting.ltchomes.net/en-ca/default.aspx): the Ministry of Health and Long term Care Homes inspection program ensures homes comply with provincially legislated standards. It uses the data that it collects to issue reports and create profiles for each home.
 
-1. **Does your organization share statistics, tables, graphs or other visualizations with the public?**
+3. **Does your organization share statistics, tables, graphs or other visualizations with the public?**
 
-Example:
+	Example:
 
-[Air Quality in Ontario Reports:](http://www.airqualityontario.com/press/publications.php) The Ministry of Environment and Climate Change produces annual reports that use data that measure the amount of six common air pollutants as well as the results from the Air Quality Index and Smog Alert Programs. The data is visualized using charts and graphs in the Air Quality in Ontario Reports that are published on the ministry&#39;s website.
+	[Air Quality in Ontario Reports:](http://www.airqualityontario.com/press/publications.php) The Ministry of Environment and Climate Change produces annual reports that use data that measure the amount of six common air pollutants as well as the results from the Air Quality Index and Smog Alert Programs. The data is visualized using charts and graphs in the Air Quality in Ontario Reports that are published on the ministry&#39;s website.
 
-1. **Does your organization receive Freedom of Information (FOI) requests or other requests from stakeholders for datasets?**
+4. **Does your organization receive Freedom of Information (FOI) requests or other requests from stakeholders for datasets?**
 
-Example:
+	Example:
 
-[Education Quality and Accountability Office Data Portal:](http://www.eqao.com/en/research/data-portal) The Education Quality and Accountability Office makes some data available online to researchers. Researchers who require data not contained in the portal can submit a request to the Ministry of Education&#39;s Freedom of Information Office.
+	[Education Quality and Accountability Office Data Portal:](http://www.eqao.com/en/research/data-portal) The Education Quality and Accountability Office makes some data available online to researchers. Researchers who require data not contained in the portal can submit a request to the Ministry of Education&#39;s Freedom of Information Office.
 
-1. **Does your organization collect or manage data about stakeholders through surveys or consultations?**
+5. **Does your organization collect or manage data about stakeholders through surveys or consultations?**
 
-Example:
+	Example:
 
-[The Health Care Experience Survey](http://www.health.gov.on.ca/en/news/bulletin/2012/hb_20121001_1.aspx): The Ministry of Health and Long-Term Care conducts a telephone survey of Ontarians to understand Ontarians&#39; experience with obtaining health care in the province.
+	[The Health Care Experience Survey](http://www.health.gov.on.ca/en/news/bulletin/2012/hb_20121001_1.aspx): The Ministry of Health and Long-Term Care conducts a telephone survey of Ontarians to understand Ontarians&#39; experience with obtaining health care in the province.
 
 If you answered &quot;yes&quot; to any of these questions, your organization definitely possesses data and needs to list the data in the [data inventory](https://www.ontario.ca/data/government-wide-data-inventory).
 
@@ -292,33 +293,33 @@ There are several factors that can help you decide what data should be a priorit
 
 - **High Value Data:**
 
-Data that is frequently requested by the public, or collected or produced in support of government priorities, mandated by act or statute, also released by other jurisdictions, or identified as high value by reputable international organizations, such as the Open Government Partnership or the Open Knowledge Foundation. See Appendix D of the [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive).
+	Data that is frequently requested by the public, or collected or produced in support of government priorities, mandated by act or statute, also released by other jurisdictions, or identified as high value by reputable international organizations, such as the Open Government Partnership or the Open Knowledge Foundation. See Appendix D of the [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive).
 
 - **Public engagement and feedback:**
 
-Data is considered of high interest or value if it is the subject of a high number of public website searches, related webpage usage (e.g., similar datasets or info), relevant to public engagements, FOI requests or email/correspondence requests. Work with your web team, correspondence unit, call centres, program areas or FOIP coordinators to help determine what data the public would like opened.
+	Data is considered of high interest or value if it is the subject of a high number of public website searches, related webpage usage (e.g., similar datasets or info), relevant to public engagements, FOI requests or email/correspondence requests. Work with your web team, correspondence unit, call centres, program areas or FOIP coordinators to help determine what data the public would like opened.
 
 - **Transparency &amp; accountability:**
 
-Data that increase transparency and accountability, specifically data used to create legislation, regulation, policy, program and service evaluation, or data related to asset management, procurement contracts and audited financial information (e.g., Public Accounts) is considered high-value.
+	Data that increase transparency and accountability, specifically data used to create legislation, regulation, policy, program and service evaluation, or data related to asset management, procurement contracts and audited financial information (e.g., Public Accounts) is considered high-value.
 
 - **Policy evaluation:**
 
-Releasing data that is useful for internal and external stakeholders&#39; evaluation of the delivery of policy, programs or services can be considered high-value. However, usefulness requires timely and frequent release to support effective evaluation.
+	Releasing data that is useful for internal and external stakeholders&#39; evaluation of the delivery of policy, programs or services can be considered high-value. However, usefulness requires timely and frequent release to support effective evaluation.
 
 - **Government Priority:**
 
-Data that aligns with new or important initiatives are considered high-value.
+	Data that aligns with new or important initiatives are considered high-value.
 
 - **Program efficiency:**
 
-Data that can help improve the delivery of programs and services are considered high-value. To determine if data are of high-value to others, examine the inter-agency or inter-ministerial data requests (e.g., [Early Development Instrument](http://www.ontario.ca/data/early-development-among-children)).
+	Data that can help improve the delivery of programs and services are considered high-value. To determine if data are of high-value to others, examine the inter-agency or inter-ministerial data requests (e.g., [Early Development Instrument](http://www.ontario.ca/data/early-development-among-children)).
 
 - **Cost/return on investment:**
 
-Ministries and provincial agencies may want to prioritize data that will cost less to release, such as data that is already published or collected in a machine-readable format and will take less time and fewer resources to prepare as a result.
+	Ministries and provincial agencies may want to prioritize data that will cost less to release, such as data that is already published or collected in a machine-readable format and will take less time and fewer resources to prepare as a result.
 
-Alternatively, data that has a large return-on-investment, such as data that can reduce FOI requests, create more efficient programs through research, or have positive economic or social impacts, should also be prioritized for release.
+	Alternatively, data that has a large return-on-investment, such as data that can reduce FOI requests, create more efficient programs through research, or have positive economic or social impacts, should also be prioritized for release.
 
 Given the prioritization criteria above, organizations must develop a plan, including timelines, for the publication of all datasets which are not deemed &#39;exempt&#39; according to the Open Data Directive.
 
@@ -390,9 +391,9 @@ The following steps should be taken to prepare data for publication:
 3. Update the [data description and metadata](https://intra.ontario.ca/wordpress/uploads/2017/03/Dataset-Description-Form-v1.xlsx) as needed. Review mandatory requirements using the [checklist](https://intra.ontario.ca/wordpress/uploads/2017/03/Dataset-Description-Form-Checklist.docx).
 4. Check in with OG for advice on metadata updates. It is good practice to share a draft version of the data if possible as well, when seeking guidance on Open Formats.
 5. Translate the metadata updates, the data dictionary, and other material for the [Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc). For greater clarity:
-  - Data files are published in the catalogue in the language in which they were collected. They are exempt from translation requirements.
-  - The dataset description, metadata, and accompanying data dictionaries or technical documentation must be translated. These will be separate documents that accompany the datasets. Any separate documents to accompany a dataset must also comply with AODA requirements.
-  - The ministry or affected program area is responsible for obtaining and covering the costs of translation.
+  	- Data files are published in the catalogue in the language in which they were collected. They are exempt from translation requirements.
+  	- The dataset description, metadata, and accompanying data dictionaries or technical documentation must be translated. These will be separate documents that accompany the datasets. Any separate documents to accompany a dataset must also comply with AODA requirements.
+  	- The ministry or affected program area is responsible for obtaining and covering the costs of translation.
 6. Un-formatted data files that are structured for database consumption meet accessibility requirements. Formatted tables must pass Excel accessibility checks (e.g., no merged cells, alternative text, properly named columns and sheets, etc.)
 7. If deem &#39;Restricted&#39; the rationale needs to be assessed for clarity and translated as part of the metadata.
 
