@@ -84,8 +84,9 @@ Open Data is the approach through which government data is made available to the
 
 For data to be &#39;Open Data&#39; it must satisfy the following three principles:
 
-- **Open access** : free to download via the internet and should be easily accessible
-- **Open format** : datasets should be machine-readable, platform independent, vendor neutral and standardized **Open licence** : under a flexible use license that carries few conditions. It is suggested that Ontario Open Data be published under the [Open Government Licence – Ontario](https://www.ontario.ca/page/open-government-licence-ontario). Ministries may use a similar open licence if the OGL is not appropriate
+- **Open access**: free to download via the internet and should be easily accessible
+- **Open format**: datasets should be machine-readable, platform independent, vendor neutral and standardized 
+- **Open licence** : under a flexible use license that carries few conditions. It is suggested that Ontario Open Data be published under the [Open Government Licence – Ontario](https://www.ontario.ca/page/open-government-licence-ontario). Ministries may use a similar open licence if the OGL is not appropriate
 
 In May of 2017, Ontario became the first province in Canada to formally adopt the [International Open Data Charter](https://opendatacharter.net/) (IODC). The IODC was developed by open data experts from governments, multilateral organizations, civil society and private sector, working together to develop six principles for the release of data:
 
@@ -156,32 +157,27 @@ The following questions can help ministries and provincial agencies identify dat
 
 1. **Does your organization have a legislative mandate to produce, collect or share data?**
 
-	Example:
-
+	<ins>Example</ins>: <br>
 	[Facilities Greenhouse Gas Emissions Summaries](https://www.ontario.ca/data/greenhouse-gas-emissions-reporting-facility): The Ministry of the Environment and Climate Change collects emissions data from regulated facilities for sources listed in Ontario Regulation 452/09.
 
 2. **Does your organization use, maintain or own the datasets used to inform policy development or program delivery?**
 
-	Example:
-
+	<ins>Example</ins>: <br>
 	[Reports on Long Term Care Homes](http://publicreporting.ltchomes.net/en-ca/default.aspx): the Ministry of Health and Long term Care Homes inspection program ensures homes comply with provincially legislated standards. It uses the data that it collects to issue reports and create profiles for each home.
 
 3. **Does your organization share statistics, tables, graphs or other visualizations with the public?**
 
-	Example:
-
+	<ins>Example</ins>: <br>
 	[Air Quality in Ontario Reports:](http://www.airqualityontario.com/press/publications.php) The Ministry of Environment and Climate Change produces annual reports that use data that measure the amount of six common air pollutants as well as the results from the Air Quality Index and Smog Alert Programs. The data is visualized using charts and graphs in the Air Quality in Ontario Reports that are published on the ministry&#39;s website.
 
 4. **Does your organization receive Freedom of Information (FOI) requests or other requests from stakeholders for datasets?**
 
-	Example:
-
+	<ins>Example</ins>: <br>
 	[Education Quality and Accountability Office Data Portal:](http://www.eqao.com/en/research/data-portal) The Education Quality and Accountability Office makes some data available online to researchers. Researchers who require data not contained in the portal can submit a request to the Ministry of Education&#39;s Freedom of Information Office.
 
 5. **Does your organization collect or manage data about stakeholders through surveys or consultations?**
 
-	Example:
-
+	<ins>Example</ins>: <br>
 	[The Health Care Experience Survey](http://www.health.gov.on.ca/en/news/bulletin/2012/hb_20121001_1.aspx): The Ministry of Health and Long-Term Care conducts a telephone survey of Ontarians to understand Ontarians&#39; experience with obtaining health care in the province.
 
 If you answered &quot;yes&quot; to any of these questions, your organization definitely possesses data and needs to list the data in the [data inventory](https://www.ontario.ca/data/government-wide-data-inventory).
@@ -613,7 +609,7 @@ For more information on how to participate in open data events and communities i
 
 4. **How do I know if my organization is a provincial agency required to follow the Directive?**
 
-	If you are a provincial agency, you are required to comply with the Directive. The[Agencies and Appointments Directive](http://intra.ops.myops.gov.on.ca/cms/tiles.nsf/(vwReadResourcesByRefId_Content)/cpd2015.01.30.12.43.41.NSU_res/%24File/Agencies_Appointments_Directive.pdf) can help you determine if you are a provincial agency. It defines the characteristics of a provincial agency as follows:
+	If you are a provincial agency, you are required to comply with the Directive. The [Agencies and Appointments Directive](http://intra.ops.myops.gov.on.ca/cms/tiles.nsf/(vwReadResourcesByRefId_Content)/cpd2015.01.30.12.43.41.NSU_res/%24File/Agencies_Appointments_Directive.pdf) can help you determine if you are a provincial agency. It defines the characteristics of a provincial agency as follows:
 
 	- is established by government through a constituting instrument (under or by statue, Order in Council or regulation);
 	- is accountable to a minister for fulfilling its legislative obligations, the management of resources it uses, and its standards for any services it provides;
@@ -820,26 +816,26 @@ For more information on how to participate in open data events and communities i
 ## 1. Summary Risk Assessment and Publishing Process
 
 | **WHAT** | 1. **IDENTIFY** | 2. **ASSESS** | 3. **PREPARE** |  4. **REVIEW** | 5. **SUBMIT** |
-| --- | --- | --- | --- | --- | --- |
-| **WHO** | _Ministry lead identifies new data and adds to inventory   __OR__   data to be updated with major changes\*_ | _Ministry lead starts assessment_ | _Ministry lead prepares data and metadata for catalogue_ | _Ministry lead coordinates review of data package_ | _Ministry lead submits final data package to OG Office_|
+| --- | :---: | --- | --- | --- | --- |
+| **WHO** | _Ministry lead identifies new data and adds to inventory <br>  __OR__ <br>  data to be updated with major changes\*_ | _Ministry lead starts assessment_ | _Ministry lead prepares data and metadata for catalogue_ | _Ministry lead coordinates review of data package_ | _Ministry lead submits final data package to OG Office_|
 |**HOW** | **Ministry lead** sends draft data description to OG Office <br> <br> **OG Office** coordinates review of draft data description <br> <br> **Ministry lead** completes and translates data description form <br> <br> **OG Office** supports addition of data description to catalogue <br> <br> \*Major changes must go through the risk assessment and publishing process, minor changes do not need to follow this process|**Ministry lead** shares data for review with appropriate teams which may include — <br> <br> **Legal branch** : copyright &amp; legal considerations <br> <br> **Privacy team:** personal &amp; confidential information <br> <br> **IT cluster:** data quality and accessibility 	<br> <br> **Communications Branch:** identifies issues &amp; opportunities <br> <br> **Ministry lead** determines timelines &amp; reports back to OG Office | **Ministry lead** converts data into open file format <br> <br> **Ministry lead** prepares context documentation and updates to description <br> <br> **Ministry lead** prepares issues management plan, if required <br> <br> **Ministry lead** prepares dataset package: <ol><li> Updated data description (English and French) </li><li> Data files in Open format </li><li> Issues management plan, if required </li></ol>| **Assessment team** reviews package to ensure it reflects their findings <br> <br> **Ministry&#39;s** **Director/ Delegate** confirms assessment team&#39;s findings  <br> <br>  **Ministry&#39;s Assistant Deputy Office** reviews issues management plan if one is required to confirm the mitigation is appropriate | **OG** reviews dataset package  <br> <br>  **OG Office** coordinates publishing on catalogue and sends links to ministry  <br> <br>  **Ministry Lead** works with Communications Branch to promote through: <ul><li>Social media (tweets)</li> <li>Traditional media (links in news releases)</li></ul>|
 
 ## 2. Open Data File Formats
 
 Open datasets are formatted as non-proprietary, open files to promote broad use and ensure compatibility when working with other sources. Data formats must be:
 
-1. **Platform-independent**
+1. **Platform-independent** <br>
 The file should not be tied to a particular computer vendor.    
    *  Example: A numbers spreadsheet is only viewable on Apple devices and should be avoided in favour of CSV, which is viewable on any platform.
-2. **Machine-readable**
+2. **Machine-readable** <br>
 The file format should be suitable for machine processing.
 	- Example:  A table in PDF format is intended for a human viewer, not a machine. The underlying table should instead be published in a suitable format for tabular data, such as CSV.
 
-3. **Vendor-neutral**
+3. **Vendor-neutral** <br>
 The file format should not require proprietary software to view.
 	- Example: A Microsoft Access MDB file requires Microsoft Access to view. Data should be released as CSV or open database formats such as MySQL SQL files.
 
-4. **Standardized** (where possible)
+4. **Standardized** (where possible) <br>
 Certain data types have actual or de facto standards adopted by their communities. Data owners should strive to use these standards where available.
 	- Example: Transit data is almost universally released in GTFS. This is preferable to custom formats as it will allow easier integration of Ontario data with existing tools.
 
