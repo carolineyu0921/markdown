@@ -404,7 +404,7 @@ Before determining data as Open or Restricted the Program Director responsible m
 
 Each dataset is unique and will require an assessment by multiple perspectives to ensure potential risks are mitigated. The director or delegate may ask that additional teams be engaged to review the assessment team&#39;s recommendations based on the nature of the dataset.
 
-![Here&#39;s a tip](RackMultipart20200917-4-lagaiy_html_10eb6c1dd7f39ade.png) If data is already public outside of the catalogue no additional approvals are required to be added to the catalogue. Just create or update metadata as needed – your legal team should be consulted to update existing licensing to an Open licence when possible.
+<img src="https://github.com/carolineyu0921/markdown/raw/master/TipImage.png" width="30" /> If data is already public outside of the catalogue no additional approvals are required to be added to the catalogue. Just create or update metadata as needed – your legal team should be consulted to update existing licensing to an Open licence when possible.
 
 ## Step 5: Submit Data and Metadata for Publishing
 
@@ -432,7 +432,7 @@ After publication, ministries should work with their Communications Branches and
 - let their ministry and Ontario Public Service (OPS) colleagues know that they have published a new Open Dataset
 - engage with partners
 
-![Here&#39;s a tip](RackMultipart20200917-4-lagaiy_html_10eb6c1dd7f39ade.png) Check out the [Open Knowledge Foundation&#39;s guide](http://opendatahandbook.org/guide/en/following-up/)for more ideas on what you can do next.
+<img src="https://github.com/carolineyu0921/markdown/raw/master/TipImage.png" width="30" /> Check out the [Open Knowledge Foundation&#39;s guide](http://opendatahandbook.org/guide/en/following-up/)for more ideas on what you can do next.
 
 # Managing Published Data
 
