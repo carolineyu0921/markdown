@@ -550,39 +550,39 @@ For more information on how to participate in open data events and communities i
 
 1. Work within the Ontario Public Service, Broader Public Service and with the public and stakeholders to assist in identifying and prioritizing the release of datasets at the community, regional and provincial levels to support social research and planning.
 
-- Are your choices about the data you release, the structure of the data, and the tools and support provided with it based on community needs and demands?
-- Do you have ways of listening to people&#39;s requests for data, and responding with open data?
-- What was the ranking of your datasets on the voting tool?
+	- Are your choices about the data you release, the structure of the data, and the tools and support provided with it based on community needs and demands?
+	- Do you have ways of listening to people&#39;s requests for data, and responding with open data?
+	- What was the ranking of your datasets on the voting tool?
 
 2. Work with industry stakeholders to raise awareness of the economic potential of open data and to prioritize the release of Datasets to support economic activities.
 
-- Who are the key users of the data?
-- How are they using the data?
-- Do you have a sense of the benefits they are deriving from using Ontario&#39;s data?
+	- Who are the key users of the data?
+	- How are they using the data?
+	- Do you have a sense of the benefits they are deriving from using Ontario&#39;s data?
 
 3. Promote data literacy within educational programs and tools in ministries/provincial agencies under the guidance of OG.
 
-- Are you aware of initiatives and courses to build skills with data analyses and literacy?
-- Do you provide open data analysis tools and guidance on using the tools?
-- Do you promote, enable and create capacity to help ministry staff and the community work with open data?
+	- Are you aware of initiatives and courses to build skills with data analyses and literacy?
+	- Do you provide open data analysis tools and guidance on using the tools?
+	- Do you promote, enable and create capacity to help ministry staff and the community work with open data?
 
 4. Promote the use of government data and digital applications and services with stakeholders.
 
-- Once published, do you promote your datasets using a variety of external and internal communications channels?
-- Who would be interested in knowing about and having access to your data?
-- Are you aware of any digital applications that have been developed with the types of datasets you manage?
+	- Once published, do you promote your datasets using a variety of external and internal communications channels?
+	- Who would be interested in knowing about and having access to your data?
+	- Are you aware of any digital applications that have been developed with the types of datasets you manage?
 
 5. Evaluate the potential of sharing the data internally and/or with relevant external organizations in secure environments whenever government data cannot be broadly shared as Open Data.
 
-- For datasets that cannot be relased as Open Data, are there opportunities to share with others within the OPS?
-- Are you aware of Statistics Canada Research Data Centres? Are there opportunities to work with them?
+	- For datasets that cannot be relased as Open Data, are there opportunities to share with others within the OPS?
+	- Are you aware of Statistics Canada Research Data Centres? Are there opportunities to work with them?
 
 6. OG will coordinate with stakeholders and other levels of government to increase the interoperability and relevance of data. This includes collecting community input, feedback and improving Open Data quality standards.
 
-- Can people comment on datasets, or create a structured conversation regarding data to network with other data users?
-- Do you know where the conversations are happening? Do you join the conversations?
-- Do you have feedback loops so people can help you improve your datasets?
-- Do you collaborate with the community to create new data resources (e.g. derived datasets)?
+	- Can people comment on datasets, or create a structured conversation regarding data to network with other data users?
+	- Do you know where the conversations are happening? Do you join the conversations?
+	- Do you have feedback loops so people can help you improve your datasets?
+	- Do you collaborate with the community to create new data resources (e.g. derived datasets)?
 
 # Frequently Asked Questions
 
@@ -590,229 +590,229 @@ For more information on how to participate in open data events and communities i
 
 1. **What is Open Data?**
 
-Open Data is data that is released to the public without charge, under an open licence, through the Ontario Data Catalogue. There are many benefits of launching an open data program, including:
+	Open Data is data that is released to the public without charge, under an open licence, through the Ontario Data Catalogue. There are many benefits of launching an open data program, including:
 
-	1. Stimulating Economic Growth
-	2. Improving government service delivery
-	3. Improving public accountability and transparency
+	- Stimulating Economic Growth
+	- Improving government service delivery
+	- Improving public accountability and transparency
 
 
 2. **What is the Open Data Directive?**
 
-The Open Data Directive became effective April 1, 2016, with revisions effective August 6, 2019, and outlines key principles and requirements for publishing Open Data. It applies to data created and managed by Ontario ministries and provincial agencies.
+	The Open Data Directive became effective April 1, 2016, with revisions effective August 6, 2019, and outlines key principles and requirements for publishing Open Data. It applies to data created and managed by Ontario ministries and provincial agencies.
 
-The directive aims to maximize access to government data by requiring all data to be made public, unless it is exempted for privacy, confidentiality, security, legal or commercial sensitivity reasons.
+	The directive aims to maximize access to government data by requiring all data to be made public, unless it is exempted for privacy, confidentiality, security, legal or commercial sensitivity reasons.
 
-The directive also requires a public inventory of all OPS and provincial agency data assets and requires future IT investments and procurement contracts to consider open data requirements.
+	The directive also requires a public inventory of all OPS and provincial agency data assets and requires future IT investments and procurement contracts to consider open data requirements.
 
 3. **To whom does the directive apply?**
 
-The Open Data Directive applies to Ontario ministries and provincial agencies.
+	The Open Data Directive applies to Ontario ministries and provincial agencies.
 
-The directive does not apply to broader public sector organizations. We continue to work with the broader public sector to improve access to their data by sharing best practices.
+	The directive does not apply to broader public sector organizations. We continue to work with the broader public sector to improve access to their data by sharing best practices.
 
 4. **How do I know if my organization is a provincial agency required to follow the Directive?**
 
-If you are a provincial agency, you are required to comply with the Directive. The[Agencies and Appointments Directive](http://intra.ops.myops.gov.on.ca/cms/tiles.nsf/(vwReadResourcesByRefId_Content)/cpd2015.01.30.12.43.41.NSU_res/%24File/Agencies_Appointments_Directive.pdf) can help you determine if you are a provincial agency. It defines the characteristics of a provincial agency as follows:
+	If you are a provincial agency, you are required to comply with the Directive. The[Agencies and Appointments Directive](http://intra.ops.myops.gov.on.ca/cms/tiles.nsf/(vwReadResourcesByRefId_Content)/cpd2015.01.30.12.43.41.NSU_res/%24File/Agencies_Appointments_Directive.pdf) can help you determine if you are a provincial agency. It defines the characteristics of a provincial agency as follows:
 
-- is established by government through a constituting instrument (under or by statue, Order in Council or regulation);
-- is accountable to a minister for fulfilling its legislative obligations, the management of resources it uses, and its standards for any services it provides;
-- The majority of its appointments are made by the government;
-- Is not organizationally part of a ministry but is part of the Government of Ontario;
-- Has authority and responsibility, granted by the government, to perform an ongoing public function or service that involves adjudicative or regulatory decision-making, operational activity, or an advisory function.
+	- is established by government through a constituting instrument (under or by statue, Order in Council or regulation);
+	- is accountable to a minister for fulfilling its legislative obligations, the management of resources it uses, and its standards for any services it provides;
+	- The majority of its appointments are made by the government;
+	- Is not organizationally part of a ministry but is part of the Government of Ontario;
+	- Has authority and responsibility, granted by the government, to perform an ongoing public function or service that involves adjudicative or regulatory decision-making, operational activity, or an advisory function.
 
-You can also check the [provincial agencies list](http://intra.ops.myops.gov.on.ca/cms/tiles.nsf/(vwReadResourcesByRefId_Content)/cpd2008.04.01.08.18.40.GFQ_res/%24File/listClassifiedAgencies.pdf) for your organization.
+	You can also check the [provincial agencies list](http://intra.ops.myops.gov.on.ca/cms/tiles.nsf/(vwReadResourcesByRefId_Content)/cpd2008.04.01.08.18.40.GFQ_res/%24File/listClassifiedAgencies.pdf) for your organization.
 
 5. **What is the International Open Data Charter?**
 
-The [International Open Data Charter](http://opendatacharter.net/) is a set of six principles developed through collaboration between governments and civil society members. Jurisdictions that adopt the IODC agree to follow the six principles that will be the foundation for access to data and for the release and use of data. These principles mandate that data should be:
+	The [International Open Data Charter](http://opendatacharter.net/) is a set of six principles developed through collaboration between governments and civil society members. Jurisdictions that adopt the IODC agree to follow the six principles that will be the foundation for access to data and for the release and use of data. These principles mandate that data should be:
 
-- Open by default
-- Timely and comprehensive
-- Accessible and usable
-- Comparable and interoperable
-- For improved governance and citizen engagement
-- For inclusive development and innovation
+	- Open by default
+	- Timely and comprehensive
+	- Accessible and usable
+	- Comparable and interoperable
+	- For improved governance and citizen engagement
+	- For inclusive development and innovation
 
 6. **How does the directive fit into the Engagement Team&#39;s recommendations on open data?**
 
-The province appointed an Open Government Engagement Team made up of public engagement and digital experts. This team travelled across the province, used a variety of social media tools and traditional media to gather feedback from the public, and spark new conversations about how government can engage, innovate and collaborate.
+	The province appointed an Open Government Engagement Team made up of public engagement and digital experts. This team travelled across the province, used a variety of social media tools and traditional media to gather feedback from the public, and spark new conversations about how government can engage, innovate and collaborate.
 
-One of the Engagement Team&#39;s recommendations was to implement an Open by Default Data Policy. The Open Data Directive is the government&#39;s response to this recommendation.
+	One of the Engagement Team&#39;s recommendations was to implement an Open by Default Data Policy. The Open Data Directive is the government&#39;s response to this recommendation.
 
 7. **How do I know which (if any) of my data should be exempt?**
 
-The directive requires all government data to be made public, unless there is privacy, confidentiality, security, legal or commercially sensitive reasons not to release it. This means that Ontario will not publish data that:
+	The directive requires all government data to be made public, unless there is privacy, confidentiality, security, legal or commercially sensitive reasons not to release it. This means that Ontario will not publish data that:
 
-- contains personal or confidential information
-- has legal, copyright or security restrictions, or
-- compromises public safety.
+	- contains personal or confidential information
+	- has legal, copyright or security restrictions, or
+	- compromises public safety.
 
-We know releasing government and provincial agency data is the right thing to do. It&#39;s also the smart thing. We will work with our partners to ensure they understand the principles and benefits of open data, and follow their obligations through the directive.
+	We know releasing government and provincial agency data is the right thing to do. It&#39;s also the smart thing. We will work with our partners to ensure they understand the principles and benefits of open data, and follow their obligations through the directive.
 
 8. **My ministry/provincial agency is worried about resource implications to support the implementation of the directive.**
 
-OG and ministry leads will support ministries in implementing the directive and providing assistance as required. Ministries and provincial agencies are expected to:
+	OG and ministry leads will support ministries in implementing the directive and providing assistance as required. Ministries and provincial agencies are expected to:
 
-- prioritize the release of datasets that address government priorities or have been requested by the public
-- optimize resources to focus on high demand datasets
-- develop business cases in instances where additional funding is required
+	- prioritize the release of datasets that address government priorities or have been requested by the public
+	- optimize resources to focus on high demand datasets
+	- develop business cases in instances where additional funding is required
 
 ## Data Inventory
 
 1. **What is the definition of data?**
 
-Data is defined in the directive as facts, figures and statistics objectively mea­sured according to a standard or scale, such as frequency, volumes or occurrences.
+	Data is defined in the directive as facts, figures and statistics objectively mea­sured according to a standard or scale, such as frequency, volumes or occurrences.
 
 2. **To what data does the Directive apply?**
 
-The Open Data Directive applies to all data created, collected, or managed by ministries and provincial agencies.
+	The Open Data Directive applies to all data created, collected, or managed by ministries and provincial agencies.
 
 3. **How often does the inventory need to be reviewed?**
 
-Ministries and provincial agencies need to review and update their inventory at least annually to ensure it is complete and current. Ministries will work with OGO to make updates following the data publishing process. Provincial agencies should notify their ministries when updates are made to ensure messaging and communication efforts are coordinated.
+	Ministries and provincial agencies need to review and update their inventory at least annually to ensure it is complete and current. Ministries will work with OGO to make updates following the data publishing process. Provincial agencies should notify their ministries when updates are made to ensure messaging and communication efforts are coordinated.
 
 4. **Do I need to list every dataset in my inventory?**
 
-Yes, ministries and provincial agencies must list all datasets in their inventory. The only exception is that ministries may omit datasets where: &quot;the organization is prevented from disclosing the Data by law or it is authorized by law to refuse to confirm or deny the existence of Data&quot;.
+	Yes, ministries and provincial agencies must list all datasets in their inventory. The only exception is that ministries may omit datasets where: &quot;the organization is prevented from disclosing the Data by law or it is authorized by law to refuse to confirm or deny the existence of Data&quot;.
 
 ## Open Data Publication
 
 1. **Do I have to publish the data for every dataset listed in the inventory?**
 
-Some datasets cannot be published due to privacy, security, confidentiality, legal or commercially sensitive reasons. However, these datasets must still be listed in the inventory along with the explanation of why they cannot be published.
+	Some datasets cannot be published due to privacy, security, confidentiality, legal or commercially sensitive reasons. However, these datasets must still be listed in the inventory along with the explanation of why they cannot be published.
 
-All other listed datasets should be published as Open Data.
+	All other listed datasets should be published as Open Data.
 
 2. **Why might a dataset not be published as Open Data?**
 
-The directive specifically exempts data for the following reasons:
+	The directive specifically exempts data for the following reasons:
 
-- data is subject to statutory confidentiality requirements
-- data should not be disclosed for legal, security, confidentiality, privacy or commercially sensitive reasons.
+	- data is subject to statutory confidentiality requirements
+	- data should not be disclosed for legal, security, confidentiality, privacy or commercially sensitive reasons.
 
-For assistance, please contact your [Freedom of Information and Privacy Unit](http://www.infogo.gov.on.ca/infogo/office.do?actionType=telephonedirectory&amp;infoType=telephone&amp;unitId=1803&amp;locale=en), legal team or OG
+	For assistance, please contact your [Freedom of Information and Privacy Unit](http://www.infogo.gov.on.ca/infogo/office.do?actionType=telephonedirectory&amp;infoType=telephone&amp;unitId=1803&amp;locale=en), legal team or OG
 
 3. **What if there is an error in the data published?**
 
-The OG team is available to help update incorrect data. Depending on the nature of the error you may be advised to loop in communications or other ministry teams. Sometimes these data corrections can be opportunities to highlight the value of opening data and building trust i.e. error was caught by public – correction can be made and a &#39;thank you for making our data better&#39; tweet could be sent with a link to the updated data.
+	The OG team is available to help update incorrect data. Depending on the nature of the error you may be advised to loop in communications or other ministry teams. Sometimes these data corrections can be opportunities to highlight the value of opening data and building trust i.e. error was caught by public – correction can be made and a &#39;thank you for making our data better&#39; tweet could be sent with a link to the updated data.
 
-In addition, if there is a significant error the dataset may need to go through the risk assessment process before publishing.
+	In addition, if there is a significant error the dataset may need to go through the risk assessment process before publishing.
 
 4. **What do I do if the public requests a dataset that has not been published as open?**
 
-Requests for data are important to the identification and prioritization of high value data. Work with the assessment team, especially communications to:
+	Requests for data are important to the identification and prioritization of high value data. Work with the assessment team, especially communications to:
 
-  1. Provide an interim response.
-  2. Assess the status (i.e. whether it will be made open, restricted, etc.)
-  3. Prioritize for release if possible.
-  4. Post
-  5. Follow up with the requester that it has been posted, or if the data are restricted share the rationale and point them to any available related data.
+	- Provide an interim response.
+	- Assess the status (i.e. whether it will be made open, restricted, etc.)
+	- Prioritize for release if possible.
+	- Post
+	- Follow up with the requester that it has been posted, or if the data are restricted share the rationale and point them to any available related data.
 
-If there is a lot of interest in restricted data you may want to assess if any aggregation or de-identification can be performed to make some data available.
+	If there is a lot of interest in restricted data you may want to assess if any aggregation or de-identification can be performed to make some data available.
 
 5. **How can I see unpublished datasets?**
 
-Ministries are responsible for prioritizing and categorizing datasets for publication.
+	Ministries are responsible for prioritizing and categorizing datasets for publication.
 
-Ministries are required to have a timeline for completing the review of datasets currently listed as &#39;under review&#39; and should provide that anticipated date.
+	Ministries are required to have a timeline for completing the review of datasets currently listed as &#39;under review&#39; and should provide that anticipated date.
 
-Ministries are required to be &quot;open by default&quot;, so feedback and requests from the public should be used to prioritize release of Open Data.
+	Ministries are required to be &quot;open by default&quot;, so feedback and requests from the public should be used to prioritize release of Open Data.
 
-Ministries should anticipate that members of the public could submit Freedom of Information requests for datasets not released as Open Data and be prepared to release the data unless it falls under one of the exclusions or exemptions in FIPPA.
+	Ministries should anticipate that members of the public could submit Freedom of Information requests for datasets not released as Open Data and be prepared to release the data unless it falls under one of the exclusions or exemptions in FIPPA.
 
 6. **Does all data need to be published in English and French?**
 
-Open Data is to be published in the Data Catalogue in the language in which it was collected. The dataset title, description, and all accompanying information must be available simultaneously in both English and French using the [Dataset Description Form](https://intra.ontario.ca/wordpress/uploads/2017/03/Dataset-Description-Form-v1.xlsx). The name/title and description in the public-facing data inventory must be available in both official languages.
+	Open Data is to be published in the Data Catalogue in the language in which it was collected. The dataset title, description, and all accompanying information must be available simultaneously in both English and French using the [Dataset Description Form](https://intra.ontario.ca/wordpress/uploads/2017/03/Dataset-Description-Form-v1.xlsx). The name/title and description in the public-facing data inventory must be available in both official languages.
 
-In addition, the ministry and provincial agency responsible for the data should consult with their French Language Services Coordinator in order to review datasets and discuss French translation needs. Although most raw datasets and numerical data do not require translation, the title, description, metadata, data dictionaries and accompanying technical documentation must be translated in order to comply with the posting requirements.
+	In addition, the ministry and provincial agency responsible for the data should consult with their French Language Services Coordinator in order to review datasets and discuss French translation needs. Although most raw datasets and numerical data do not require translation, the title, description, metadata, data dictionaries and accompanying technical documentation must be translated in order to comply with the posting requirements.
 
 7. **Can you give me some examples of high-value datasets that you have opened? What do you mean by high-value?**
 
-Ontario&#39;s datasets cover many subjects, from transportation to the environment, and include a number of high-value datasets. High-value datasets are deemed to be those that are:
+	Ontario&#39;s datasets cover many subjects, from transportation to the environment, and include a number of high-value datasets. High-value datasets are deemed to be those that are:
 
-- frequently requested by the public via Freedom of Information requests, public surveys, phone, mail inquiries, and media
-- collected or produced in support of government priorities
-- legislative mandate to produce, collect or share data, or
-- identified as such by reputable international organizations, such as the Open Government Partnership or the Open Knowledge Foundation.
+	- frequently requested by the public via Freedom of Information requests, public surveys, phone, mail inquiries, and media
+	- collected or produced in support of government priorities
+	- legislative mandate to produce, collect or share data, or
+	- identified as such by reputable international organizations, such as the Open Government Partnership or the Open Knowledge Foundation.
 
-Some of Ontario&#39;s high value datasets include:
+	Some of Ontario&#39;s high value datasets include:
 
-- [University and College enrollment](https://www.ontario.ca/data/college-enrolment)
-- [Personal income tax rates and credits](https://www.ontario.ca/data/personal-income-tax-rates-and-credits)
+	- [University and College enrollment](https://www.ontario.ca/data/college-enrolment)
+	- [Personal income tax rates and credits](https://www.ontario.ca/data/personal-income-tax-rates-and-credits)
 
-- [Traffic volume on provincial highways](https://www.ontario.ca/data/traffic-volume)
-- [Employment Service Program information and outcomes](https://www.ontario.ca/data/employment-service)
-- [Energy Use and Greenhouse Gas Emissions for the Broader Public Sector](https://www.ontario.ca/data/energy-use-and-greenhouse-gas-emissions-broader-public-sector)
-- Hospital [Locations](https://www.ontario.ca/data/hospital-locations)
+	- [Traffic volume on provincial highways](https://www.ontario.ca/data/traffic-volume)
+	- [Employment Service Program information and outcomes](https://www.ontario.ca/data/employment-service)
+	- [Energy Use and Greenhouse Gas Emissions for the Broader Public Sector](https://www.ontario.ca/data/energy-use-and-greenhouse-gas-emissions-broader-public-sector)
+	- Hospital [Locations](https://www.ontario.ca/data/hospital-locations)
 
 8. **What formats are used to publish these datasets?**
 
-Ontario&#39;s datasets are made available in machine-readable formats (formats that computers and other types of technology can easily process). Formats include
+	Ontario&#39;s datasets are made available in machine-readable formats (formats that computers and other types of technology can easily process). Formats include
 
-- XML (extensible markup language)
-- CSV (comma-separated values)
-- TXT (text) files
+	- XML (extensible markup language)
+	- CSV (comma-separated values)
+	- TXT (text) files
 
-Depending on the data, other formats may be available.
+	Depending on the data, other formats may be available.
 
 ## Managing Published Data
 
 1. **What happens if I publish a dataset in error?**
 
-There may be exceptional circumstances that require datasets to be removed from the catalogue. Contact OG to discuss options for correcting errors.
+	There may be exceptional circumstances that require datasets to be removed from the catalogue. Contact OG to discuss options for correcting errors.
 
 ## I &amp; IT Projects
 
 1. **What do I need to know about open data requirements when planning an I&amp;IT project?**
 
-If your I&amp;IT solution incorporates data management, one of the requirements must be that it can extract datasets into an Open Format.
+	If your I&amp;IT solution incorporates data management, one of the requirements must be that it can extract datasets into an Open Format.
 
-The gold standard as identified in the Directive is to provide the data online through an API, and publishing the URL to the API in the[Ontario Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc).
+	The gold standard as identified in the Directive is to provide the data online through an API, and publishing the URL to the API in the[Ontario Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc).
 
-Other approaches to satisfy this requirement could include a button that an admin clicks to generate a machine-readable report, or having the system periodically email a report to the program area.
+	Other approaches to satisfy this requirement could include a button that an admin clicks to generate a machine-readable report, or having the system periodically email a report to the program area.
 
-Projects should ensure these requirements are built into their Requests for Proposals (RFPs) and contracts with vendors; or are available from off-the-shelf solutions.
+	Projects should ensure these requirements are built into their Requests for Proposals (RFPs) and contracts with vendors; or are available from off-the-shelf solutions.
 
-Submissions to the Architecture Review Board (ARB), cluster governance, as well as TB/MBC and ITPAC submissions should highlight how the requirements of the Open Data Directive will be met.
+	Submissions to the Architecture Review Board (ARB), cluster governance, as well as TB/MBC and ITPAC submissions should highlight how the requirements of the Open Data Directive will be met.
 
-All digital projects that are either public-facing or budgeted over $1m are required to undergo a [Digital First Assessment](https://intra.ontario.ca/ops/digital-first-assessments-meeting-ontarios-digital-service-standard) . The assessment questions focus on a project&#39;s alignment to the 14 points of Ontario&#39;s Digital Service Standard. One of the 14 points is &quot;open standards and common platforms&quot;. To ensure a smooth assessment, make sure to design open data in to your system early on.
+	All digital projects that are either public-facing or budgeted over $1m are required to undergo a [Digital First Assessment](https://intra.ontario.ca/ops/digital-first-assessments-meeting-ontarios-digital-service-standard) . The assessment questions focus on a project&#39;s alignment to the 14 points of Ontario&#39;s Digital Service Standard. One of the 14 points is &quot;open standards and common platforms&quot;. To ensure a smooth assessment, make sure to design open data in to your system early on.
 
 2. **What if I procure a solution instead of building it?**
 
-Procured data management platforms are also required to support open data requirements.
+	Procured data management platforms are also required to support open data requirements.
 
 3. **Which I&amp;IT solutions are subject to the Open Data Directive? What is meant by data management solution vs. all IT solutions?**
 
-In general, transactional systems include data and therefore should have open data export functionality built in. Keep in mind that most transactional systems will include direct or indirect Personally Identifiable Information (PII) which will not be eligible for publishing on the [Ontario Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc). Where possible, such systems should be designed in a way to facilitate publishing those portions of the data that does not contain PII. For example, a database of room reservations might publish the list of rooms but not the reservations themselves.
+	In general, transactional systems include data and therefore should have open data export functionality built in. Keep in mind that most transactional systems will include direct or indirect Personally Identifiable Information (PII) which will not be eligible for publishing on the [Ontario Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc). Where possible, such systems should be designed in a way to facilitate publishing those portions of the data that does not contain PII. For example, a database of room reservations might publish the list of rooms but not the reservations themselves.
 
-When it comes to computer logs, it is not the intention of the directive to include all computer logs generated by all systems in the definition of data. However, if the specific character of a log meets the definition of data, it should be included in the inventory. For instance, it does not make sense to publish the system log of every computer in the organization. On the other hand, website analytics data such as page views is a dataset and is used to inform communication planning, and should be published.
+	When it comes to computer logs, it is not the intention of the directive to include all computer logs generated by all systems in the definition of data. However, if the specific character of a log meets the definition of data, it should be included in the inventory. For instance, it does not make sense to publish the system log of every computer in the organization. On the other hand, website analytics data such as page views is a dataset and is used to inform communication planning, and should be published.
 
 ## Reporting and Compliance
 
 1. **How do I ensure my ministry/provincial agency is in compliance with the directive?**
 
-Ensure that your ministry/provincial agency follows the mandatory requirements of the directive and the review and publishing steps outlined in the _Publishing Data_ Section.
+	Ensure that your ministry/provincial agency follows the mandatory requirements of the directive and the review and publishing steps outlined in the _Publishing Data_ Section.
 
-OG will play an oversight role by conducting an annual review of compliance with the mandatory requirements of the directive. Ministries will leverage the certificate of assurance process that assures ministries are in compliance with all corporate directives and policies while provincial agencies require attestations of compliance from board governed Chair/CEO.
+	OG will play an oversight role by conducting an annual review of compliance with the mandatory requirements of the directive. Ministries will leverage the certificate of assurance process that assures ministries are in compliance with all corporate directives and policies while provincial agencies require attestations of compliance from board governed Chair/CEO.
 
 ## Where to Go for Help
 
 1. **How do I find out who my Open Government Lead is in my ministry?**
 
-Each ministry has appointed an Open Government Executive Lead. You can find out who your lead is on the [Open Government intranet](https://intra.ontario.ca/tbs/ministry-open-government-leads) site.
+	Each ministry has appointed an Open Government Executive Lead. You can find out who your lead is on the [Open Government intranet](https://intra.ontario.ca/tbs/ministry-open-government-leads) site.
 
 2. **Where can provincial agency staff go to find help?**
 
-Staff at provincial agencies can find additional resources on AGNES or by contacting their lead ministry.
+	Staff at provincial agencies can find additional resources on AGNES or by contacting their lead ministry.
 
 3. **Will staff be trained on open data requirements?**
 
-A wide range of Open Government tools, resources and training – including courses on open data – will be offered to staff to help build skillsets and capacity in this area.
+	A wide range of Open Government tools, resources and training – including courses on open data – will be offered to staff to help build skillsets and capacity in this area.
 
 4. **Who can I contact if I have more questions about the directive?**
 
-The OGO is happy to provide assistance. You can email [opendata@ontario.ca](mailto:opendata@ontario.ca) or refer to our contact list at the Ministry Support Teams on the Open Government intranet site.
+	The OGO is happy to provide assistance. You can email [opendata@ontario.ca](mailto:opendata@ontario.ca) or refer to our contact list at the Ministry Support Teams on the Open Government intranet site.
 
 # Appendix
 
