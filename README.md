@@ -121,8 +121,8 @@ The [Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc) buil
 3. Ensure that Open Data requirements outlined in the ODD are built into their IT projects.
 4. Ensure data is open by default by
   	- Doing everything possible to ensure the timely review and release of open data. Note that per revisions to the ODD effective August 6, 2019 Program Directors are responsible for ensuring a risk assessment was completed and approving the outcome (open or restricted). They are also responsible for briefing up when appropriate and coordinating the review of issues management plans when recommended by the risk review.
-  	- embedding open principles in data management activities, systems and processes
-  	- encouraging data literacy and open government objectives in learning and development plans of staff at all levels
+  	- Embedding open principles in data management activities, systems and processes
+  	- Encouraging data literacy and open government objectives in learning and development plans of staff at all levels
 
 ### Ontario Digital Service, Cabinet Office
 
@@ -163,17 +163,17 @@ The following questions can help ministries and provincial agencies identify dat
 2. **Does your organization use, maintain or own the datasets used to inform policy development or program delivery?**
 
 	<ins>Example</ins>: <br>
-	[Reports on Long Term Care Homes](http://publicreporting.ltchomes.net/en-ca/default.aspx): the Ministry of Health and Long term Care Homes inspection program ensures homes comply with provincially legislated standards. It uses the data that it collects to issue reports and create profiles for each home.
+	[Reports on Long Term Care Homes](http://publicreporting.ltchomes.net/en-ca/default.aspx): The Ministry of Health and Long term Care Homes inspection program ensures homes comply with provincially legislated standards. It uses the data that it collects to issue reports and create profiles for each home.
 
 3. **Does your organization share statistics, tables, graphs or other visualizations with the public?**
 
 	<ins>Example</ins>: <br>
-	[Air Quality in Ontario Reports:](http://www.airqualityontario.com/press/publications.php) The Ministry of Environment and Climate Change produces annual reports that use data that measure the amount of six common air pollutants as well as the results from the Air Quality Index and Smog Alert Programs. The data is visualized using charts and graphs in the Air Quality in Ontario Reports that are published on the ministry&#39;s website.
+	[Air Quality in Ontario Reports](http://www.airqualityontario.com/press/publications.php): The Ministry of Environment and Climate Change produces annual reports that use data that measure the amount of six common air pollutants as well as the results from the Air Quality Index and Smog Alert Programs. The data is visualized using charts and graphs in the Air Quality in Ontario Reports that are published on the ministry&#39;s website.
 
 4. **Does your organization receive Freedom of Information (FOI) requests or other requests from stakeholders for datasets?**
 
 	<ins>Example</ins>: <br>
-	[Education Quality and Accountability Office Data Portal:](http://www.eqao.com/en/research/data-portal) The Education Quality and Accountability Office makes some data available online to researchers. Researchers who require data not contained in the portal can submit a request to the Ministry of Education&#39;s Freedom of Information Office.
+	[Education Quality and Accountability Office Data Portal](http://www.eqao.com/en/research/data-portal): The Education Quality and Accountability Office makes some data available online to researchers. Researchers who require data not contained in the portal can submit a request to the Ministry of Education&#39;s Freedom of Information Office.
 
 5. **Does your organization collect or manage data about stakeholders through surveys or consultations?**
 
@@ -432,7 +432,7 @@ After publication, ministries should work with their Communications Branches and
 - let their ministry and Ontario Public Service (OPS) colleagues know that they have published a new Open Dataset
 - engage with partners
 
-<img src="https://github.com/carolineyu0921/markdown/raw/master/TipImage.png" width="30" /> Check out the [Open Knowledge Foundation&#39;s guide](http://opendatahandbook.org/guide/en/following-up/)for more ideas on what you can do next.
+<img src="https://github.com/carolineyu0921/markdown/raw/master/TipImage.png" width="30" /> Check out the [Open Knowledge Foundation&#39;s guide](http://opendatahandbook.org/guide/en/following-up/) for more ideas on what you can do next.
 
 # Managing Published Data
 
@@ -611,8 +611,8 @@ For more information on how to participate in open data events and communities i
 
 	If you are a provincial agency, you are required to comply with the Directive. The [Agencies and Appointments Directive](http://intra.ops.myops.gov.on.ca/cms/tiles.nsf/(vwReadResourcesByRefId_Content)/cpd2015.01.30.12.43.41.NSU_res/%24File/Agencies_Appointments_Directive.pdf) can help you determine if you are a provincial agency. It defines the characteristics of a provincial agency as follows:
 
-	- is established by government through a constituting instrument (under or by statue, Order in Council or regulation);
-	- is accountable to a minister for fulfilling its legislative obligations, the management of resources it uses, and its standards for any services it provides;
+	- Is established by government through a constituting instrument (under or by statue, Order in Council or regulation);
+	- Is accountable to a minister for fulfilling its legislative obligations, the management of resources it uses, and its standards for any services it provides;
 	- The majority of its appointments are made by the government;
 	- Is not organizationally part of a ministry but is part of the Government of Ontario;
 	- Has authority and responsibility, granted by the government, to perform an ongoing public function or service that involves adjudicative or regulatory decision-making, operational activity, or an advisory function.
@@ -740,7 +740,7 @@ For more information on how to participate in open data events and communities i
 	- [Traffic volume on provincial highways](https://www.ontario.ca/data/traffic-volume)
 	- [Employment Service Program information and outcomes](https://www.ontario.ca/data/employment-service)
 	- [Energy Use and Greenhouse Gas Emissions for the Broader Public Sector](https://www.ontario.ca/data/energy-use-and-greenhouse-gas-emissions-broader-public-sector)
-	- Hospital [Locations](https://www.ontario.ca/data/hospital-locations)
+	- [Hospital Locations](https://www.ontario.ca/data/hospital-locations)
 
 8. **What formats are used to publish these datasets?**
 
@@ -764,7 +764,7 @@ For more information on how to participate in open data events and communities i
 
 	If your I&amp;IT solution incorporates data management, one of the requirements must be that it can extract datasets into an Open Format.
 
-	The gold standard as identified in the Directive is to provide the data online through an API, and publishing the URL to the API in the[Ontario Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc).
+	The gold standard as identified in the Directive is to provide the data online through an API, and publishing the URL to the API in the [Ontario Data Catalogue](https://www.ontario.ca/search/data-catalogue?sort=asc).
 
 	Other approaches to satisfy this requirement could include a button that an admin clicks to generate a machine-readable report, or having the system periodically email a report to the program area.
 
@@ -772,7 +772,7 @@ For more information on how to participate in open data events and communities i
 
 	Submissions to the Architecture Review Board (ARB), cluster governance, as well as TB/MBC and ITPAC submissions should highlight how the requirements of the Open Data Directive will be met.
 
-	All digital projects that are either public-facing or budgeted over $1m are required to undergo a [Digital First Assessment](https://intra.ontario.ca/ops/digital-first-assessments-meeting-ontarios-digital-service-standard) . The assessment questions focus on a project&#39;s alignment to the 14 points of Ontario&#39;s Digital Service Standard. One of the 14 points is &quot;open standards and common platforms&quot;. To ensure a smooth assessment, make sure to design open data in to your system early on.
+	All digital projects that are either public-facing or budgeted over $1m are required to undergo a [Digital First Assessment](https://intra.ontario.ca/ops/digital-first-assessments-meeting-ontarios-digital-service-standard). The assessment questions focus on a project&#39;s alignment to the 14 points of Ontario&#39;s Digital Service Standard. One of the 14 points is &quot;open standards and common platforms&quot;. To ensure a smooth assessment, make sure to design open data in to your system early on.
 
 2. **What if I procure a solution instead of building it?**
 
